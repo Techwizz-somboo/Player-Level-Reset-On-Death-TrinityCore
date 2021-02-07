@@ -6,8 +6,7 @@ To add this to your server, simply download the script. Place it in the director
 add (under it)
 ```void AddSC_Player_Level_Reset_On_Death();```
 and where it says
-```void AddCustomScripts()
-{```
+```void AddCustomScripts() { ```
 add
 ```AddSC_Player_Level_Reset_On_Death();```
 Then open CMakeLists.txt
