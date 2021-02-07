@@ -15,3 +15,5 @@ Where it says (Around line 245)
 Add
 ```Custom/Player_Level_Reset_On_Death.cpp```
 Recompile your server. That should be all. Enjoy!
+
+https://youtu.be/7bdhRgvBZ8U
