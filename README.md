@@ -9,7 +9,7 @@ and where it says
 ```void AddCustomScripts() { ```
 add
 ```AddSC_Player_Level_Reset_On_Death();```
-Then open CMakeLists.txt
+Then open CMakeLists.txt (TrinityCore/src/server/scripts/CMakeLists.txt)
 Where it says (Around line 245)
 ```${scripts_STAT_SRCS}```
 Add
