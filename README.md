@@ -16,4 +16,6 @@ Add
 ```Custom/Player_Level_Reset_On_Death.cpp```
 Recompile your server. That should be all. Enjoy!
 
-https://youtu.be/7bdhRgvBZ8U
+For my ban on death script as an alternative to this script, go here https://github.com/Techwizz-somboo/Player-Ban-On-Death/blob/main/README.md
+
+See it in action! https://youtu.be/7bdhRgvBZ8U
